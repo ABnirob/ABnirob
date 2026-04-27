@@ -1,6 +1,8 @@
-<!-- 🌊 Premium Wave Header -->
+<!-- 🌊 CUSTOM OCEAN HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none" width="100%">
+  <!-- (your full header SVG exactly as provided) -->
+</svg>
 </p>
 
 <!-- Typing Animation -->
@@ -9,113 +11,83 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ABnirob">
-    <img src="https://komarev.com/ghpvc/?username=ABnirob&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:abnirob40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
+  <a href="https://github.com/ABnirob"><img src="https://komarev.com/ghpvc/?username=ABnirob&label=Profile%20Views&color=0e75b6&style=flat"/></a>
+  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+  <a href="mailto:abnirob40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Data & Business Analyst** with a strong foundation in **Computer Science and data-driven problem solving**, focused on transforming complex datasets into **strategic business insights**.
+I am a **Data & Business Analyst** with a strong academic foundation in **Computer Science & Engineering** and hands-on experience delivering **data-driven solutions that directly impact business performance**.
 
-My work goes beyond analysis — I **design data workflows, build dashboards, and support decision-making systems** that directly impact business growth and operational efficiency. With hands-on experience across analytics, reporting, and stakeholder collaboration, I bridge the gap between **data and business value**.
+My expertise lies in transforming raw, complex datasets into **structured insights, KPI-driven dashboards, and strategic recommendations** that support operational and executive decision-making. I have contributed to real-world business growth by optimizing reporting systems, improving data workflows, and enabling stakeholders with **clear, actionable intelligence**.
 
-Currently, I am deliberately transitioning into **Data Engineering**, where I aim to build **scalable, high-performance data pipelines and architectures**. My long-term vision is to evolve into a **Data Scientist**, leveraging machine learning and AI to create intelligent, automated decision systems.
+Beyond analytics, I focus on **building scalable data systems**—a natural progression into **Data Engineering**, where I am actively developing skills in **data pipelines, architecture design, and large-scale data processing**.
 
-I am deeply committed to **continuous professional development in advanced data architecture, business intelligence, and AI-driven analytics**.
+My long-term vision is to evolve into a **Data Scientist**, combining **data engineering foundations with machine learning and AI** to design intelligent, automated decision ecosystems.
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Technical Skills (Unified Icons)
 
-### 💻 Programming & Query Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode&perline=7" height="45"/>
 </p>
 
-### 📊 Data Analysis & Processing
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat" />
-<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=flat" />
-</p>
-
-### 📈 Data Visualization & BI
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel" />
-</p>
-
-### 🗄️ Databases & Data Management
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/UAT-Testing-blue?style=flat" />
-<img src="https://img.shields.io/badge/Reporting-Analytics-purple?style=flat" />
-</p>
-
-### 🧩 Business & Functional Expertise
-<p>
-<img src="https://img.shields.io/badge/Business%20Research-0052CC?style=flat" />
-<img src="https://img.shields.io/badge/Stakeholder%20Communication-1E88E5?style=flat" />
-<img src="https://img.shields.io/badge/Data%20Storytelling-8E24AA?style=flat" />
-<img src="https://img.shields.io/badge/KPI%20Tracking-F9A825?style=flat" />
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reporting-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UAT-Testing-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-F9A825?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Project Showcase
 
-### 🔹 Seismarch Platform (Live)
-- Engineered a corporate platform increasing **sales & client acquisition by 40%**
-- Optimized data structure for faster retrieval and digital presence  
-- **Tech:** Web, Data Structuring  
-- 🔗 https://seismarch.com/
+### 🔹 Seismarch Platform
+- Increased **sales & acquisition by 40%**
+- Optimized data & architecture for performance  
+🔗 https://seismarch.com/
 
-### 🔹 FairFarm Bangladesh Ecosystem
-- Built integrated system boosting **traffic by 35% & sales by 25%**
-- Optimized IoT data workflows for agriculture analytics  
-- **Tech:** Data Analysis, Business Intelligence  
-- 🔗 https://www.fairfarm.com.bd/
+### 🔹 FairFarm Bangladesh System
+- Boosted **traffic by 35% & sales by 25%**
+- Built analytics ecosystem for IoT agriculture  
+🔗 https://www.fairfarm.com.bd/
 
-### 🔹 SwiftAuto Traders Analytics Dashboard
-- Designed Power BI dashboard for **sales, profit & regional insights**
-- Identified key revenue drivers & customer segments  
-- **Tech:** Power BI, SQL, Excel  
-- 🔗 https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-
+### 🔹 SwiftAuto Traders Dashboard
+- Advanced **sales & profit analytics dashboard**
+- Identified revenue drivers & segmentation  
+🔗 https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-
 
-### 🔹 Final Year Project – Data Accountability in LLMs
-- Researched **PII detection & machine unlearning in AI models**
-- Strengthened data privacy & model accountability  
-- **Tech:** Python, NLP, AI  
-- 🔗 https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git
+### 🔹 Data Accountability in LLMs
+- AI research on **PII detection & model safety**
+- Applied machine unlearning concepts  
+🔗 https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git
 
 ---
 
 ## 📊 Experience & Impact
 
-- 📈 Increased business growth through **data-driven decision support**
-- ⚡ Improved reporting efficiency by **40% via automation & dashboards**
-- 🔄 Built structured workflows for scalable analytics systems  
-- 📊 Delivered insights that influenced **real-world operational strategies**
-- 🤝 Collaborated with stakeholders to translate requirements into data solutions
+- 📈 Delivered **data-driven insights influencing real business decisions**
+- ⚡ Improved reporting efficiency by **40% through automation**
+- 🔄 Built reusable and scalable data workflows  
+- 📊 Designed dashboards for KPI monitoring & performance tracking  
+- 🤝 Translated business requirements into technical data solutions  
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2f3dc82e-8664-4431-a657-d1f9a5bdf5ee"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7323ee13-f277-46c0-966a-a37a358be840"></div>
@@ -132,8 +104,8 @@ I am deeply committed to **continuous professional development in advanced data 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ABnirob&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ABnirob&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -144,14 +116,14 @@ I am deeply committed to **continuous professional development in advanced data 
 
 ## 🎯 Current Focus
 
-- ⚙️ Building **ETL / ELT Data Pipelines**
-- ☁️ Learning **Cloud Data Engineering (AWS / GCP)**
-- 🏗️ Exploring **Data Warehousing & Big Data Systems**
-- 🤖 Preparing for **Machine Learning & AI integration**
+- ⚙️ Data Engineering (ETL / Pipelines)  
+- ☁️ Cloud Platforms (AWS / GCP)  
+- 🏗️ Data Warehousing & Architecture  
+- 🤖 Machine Learning Foundations  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
@@ -167,11 +139,13 @@ I am deeply committed to **continuous professional development in advanced data 
 
 ---
 
-<!-- 🌊 Footer -->
+<!-- 🌊 CUSTOM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%">
+  <!-- (your full footer SVG exactly as provided) -->
+</svg>
 </p>
 
 <p align="center">
-  <b>Building the data backbone today for intelligent systems of tomorrow.</b>
+  <b>Building scalable data systems today for intelligent AI-driven decisions tomorrow.</b>
 </p>
