@@ -65,18 +65,24 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/52cde2a5-4cd6-4c46-a527-255c6e86f596" />
-"/></td>
-<td><img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/bf18de66-fbf7-493c-88cf-45b3d7bf1ba2" />
+<td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" />
 </td>
-<td><img src="https://via.placeholder.com/150"/></td>
-<td><img src="https://via.placeholder.com/150"/></td>
+<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/136367e4-c051-4207-905d-23a2e79e9614" />
+</td>
+<td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" />
+</td>
+<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/faccdc3f-fcb4-4a4a-87cc-e1362880f037" />
+</td>
 </tr>
 <tr>
-<td><img src="https://via.placeholder.com/150"/></td>
-<td><img src="https://via.placeholder.com/150"/></td>
-<td><img src="https://via.placeholder.com/150"/></td>
-<td><img src="https://via.placeholder.com/150"/></td>
+<td><img width="1650" height="1275" alt="5  complete course certificate of Microsoft Business Analyst Professional Certificat - Coursera PCKTIW31YYDU_page-0001" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" />
+</td>
+<td><img width="1650" height="1275" alt="2  Complete Course  Google Advanced Data Analytics Professional Certificate 7 in 1 Coursera 0C3MT1UQL23N_page-0001" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" />
+</td>
+<td><img width="1650" height="1275" alt="6  Complete course of Unlock Business Insights with Microsoft Excel and Power BI - Coursera QPQSYW5Y99R0_page-0001" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" />
+</td>
+<td><img width="2376" height="1836" alt="8  md_abul_bashar_nirob_alp_2024_certificate_of_completion(1)" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" />
+</td>
 </tr>
 </table>
 
@@ -86,16 +92,24 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/Google_Data_Analytics-blue?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/IBM_Data_Analyst-black?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Microsoft_BA-blue?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/></td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" />
+</td>
+<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" />
+</td>
+<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/b4ec6434-2930-47d5-939f-8ccfdf867402" />
+</td>
+<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/6b4a3d08-b353-4b4e-bb06-6aa0bb7dbb55" />
+</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Data_Visualization-green?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Data_Analytics_Essentials-orange?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Python_for_DS-blue?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/BI_Foundations-darkblue?style=for-the-badge"/></td>
+<td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" />
+</td>
+<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/398608fc-f241-4fbe-a3de-0d9e388a7f01" />
+</td>
+<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/c379e1f2-9155-42f0-aad6-31445ca81090" />
+</td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" />
+</td>
 </tr>
 </table>
 
