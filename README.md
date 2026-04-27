@@ -18,26 +18,15 @@
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 About Me
 
-<div align="center">
+I am a **Data & Business Analyst** with a strong academic foundation in **Computer Science & Engineering** and hands-on experience delivering **data-driven solutions that directly impact business performance**.
 
-I am a **Data & Business Analyst** specializing in transforming raw data into **strategic business intelligence and decision-support systems**.
+My expertise lies in transforming raw, complex datasets into **structured insights, KPI-driven dashboards, and strategic recommendations** that support operational and executive decision-making. I have contributed to real-world business growth by optimizing reporting systems, improving data workflows, and enabling stakeholders with **clear, actionable intelligence**.
 
-With a strong foundation in **Computer Science**, I focus on:
-- Data-driven business analysis
-- KPI tracking & dashboard engineering
-- Data modeling & reporting automation
-- Stakeholder-focused insights delivery
+Beyond analytics, I focus on **building scalable data systems**—a natural progression into **Data Engineering**, where I am actively developing skills in **data pipelines, architecture design, and large-scale data processing**.
 
-I am currently transitioning into **Data Engineering**, building expertise in:
-- Scalable data pipelines (ETL/ELT)
-- Cloud-based data systems (AWS/GCP)
-- Data architecture & warehousing
-
-My long-term vision is to become a **Data Scientist**, combining engineering + analytics + AI to build intelligent decision systems.
-
-</div>
+My long-term vision is to evolve into a **Data Scientist**, combining **data engineering foundations with machine learning and AI** to design intelligent, automated decision ecosystems.
 
 ---
 
