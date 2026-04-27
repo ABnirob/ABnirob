@@ -96,17 +96,17 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 </td>
 <td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" />
 </td>
-<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/b4ec6434-2930-47d5-939f-8ccfdf867402" />
+<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" />
 </td>
-<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/6b4a3d08-b353-4b4e-bb06-6aa0bb7dbb55" />
+<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" />
 </td>
 </tr>
 <tr>
 <td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" />
 </td>
-<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/398608fc-f241-4fbe-a3de-0d9e388a7f01" />
+<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" />
 </td>
-<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/c379e1f2-9155-42f0-aad6-31445ca81090" />
+<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" />
 </td>
 <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" />
 </td>
