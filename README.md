@@ -1,88 +1,14 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--       SELF-CONTAINED SVG LIQUID WAVE HEADER            -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+<!-- HEADER -->
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="3px"/>
+
 <p align="center">
-<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="50%"  stop-color="#0a2a4a"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="wave1g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0.7"/>
-      <stop offset="50%"  stop-color="#0080FF" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0.7"/>
-    </linearGradient>
-    <linearGradient id="wave2g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FFCC" stop-opacity="0.4"/>
-      <stop offset="50%"  stop-color="#0040FF" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#00FFCC" stop-opacity="0.4"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="220" fill="url(#bg)" rx="0"/>
-
-  <!-- Decorative floating dots -->
-  <circle cx="60"  cy="40"  r="2" fill="#00D4FF" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="840" cy="55"  r="2" fill="#00FFCC" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.5s" repeatCount="indefinite"/></circle>
-  <circle cx="150" cy="20"  r="1.5" fill="#ffffff" opacity="0.3"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/></circle>
-  <circle cx="750" cy="30"  r="1.5" fill="#ffffff" opacity="0.3"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
-  <circle cx="450" cy="18"  r="1"   fill="#00D4FF" opacity="0.4"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2s" repeatCount="indefinite"/></circle>
-
-  <!-- Wave layer 1 — slow deep wave -->
-  <path fill="url(#wave1g)" opacity="0.6">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-        M0,160 C150,130 300,185 450,155 C600,125 750,175 900,150 L900,220 L0,220 Z;
-        M0,150 C150,175 300,125 450,160 C600,195 750,135 900,160 L900,220 L0,220 Z;
-        M0,160 C150,130 300,185 450,155 C600,125 750,175 900,150 L900,220 L0,220 Z
-      "/>
-  </path>
-
-  <!-- Wave layer 2 — faster ripple -->
-  <path fill="url(#wave2g)" opacity="0.5">
-    <animate attributeName="d" dur="5s" repeatCount="indefinite"
-      values="
-        M0,175 C120,155 250,195 400,170 C550,145 700,185 900,165 L900,220 L0,220 Z;
-        M0,165 C120,185 250,150 400,180 C550,210 700,160 900,175 L900,220 L0,220 Z;
-        M0,175 C120,155 250,195 400,170 C550,145 700,185 900,165 L900,220 L0,220 Z
-      "/>
-  </path>
-
-  <!-- Wave layer 3 — thin shimmer top -->
-  <path fill="#00D4FF" opacity="0.15">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M0,185 C200,168 400,200 600,178 C750,162 850,188 900,180 L900,220 L0,220 Z;
-        M0,178 C200,195 400,165 600,190 C750,205 850,172 900,185 L900,220 L0,220 Z;
-        M0,185 C200,168 400,200 600,178 C750,162 850,188 900,180 L900,220 L0,220 Z
-      "/>
-  </path>
-
-  <!-- Glowing horizontal line -->
-  <line x1="60" y1="125" x2="840" y2="125" stroke="#00D4FF" stroke-width="0.5" opacity="0.3"/>
-
-  <!-- Main Name Text -->
-  <text x="450" y="72" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
-        font-size="36" font-weight="700" fill="#ffffff" filter="url(#glow)">
-    Md. Abul Bashar Nirob
-    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
-  </text>
-
-  <!-- Subtitle -->
-  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
-        font-size="14" font-weight="400" fill="#00D4FF" letter-spacing="1">
-    Data &amp; Business Analyst · Future Data Engineer · AI Enthusiast
-    <animate attributeName="opacity" values="0;1" dur="2s" begin="0.5s" fill="freeze"/>
-  </text>
-</svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=80&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=00D4FF&background=0D1117&center=true&vCenter=true&width=900&height=40&lines=Data+%26+Business+Analyst+%7C+Future+Data+Engineer+%7C+AI+Enthusiast" alt="Title" />
+</p>
+
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="3px"/>
 
 <!-- Animated Typing Tagline -->
 <p align="center">
@@ -330,40 +256,4 @@ Data Engineering Track
   <sub><em>Open to collaborations, data projects, and conversations about the future of analytics.</em></sub>
 </div>
 
-<p align="center">
-<svg viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="50%"  stop-color="#0a2a4a"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0.7"/>
-      <stop offset="50%"  stop-color="#0080FF" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0.7"/>
-    </linearGradient>
-    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FFCC" stop-opacity="0.4"/>
-      <stop offset="50%"  stop-color="#0040FF" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#00FFCC" stop-opacity="0.4"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="130" fill="url(#footerbg)"/>
-  <circle cx="80"  cy="90" r="2"   fill="#00D4FF" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s"   repeatCount="indefinite"/></circle>
-  <circle cx="820" cy="80" r="2"   fill="#00FFCC" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.5s" repeatCount="indefinite"/></circle>
-  <circle cx="450" cy="95" r="1.5" fill="#ffffff"  opacity="0.3"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="4s"   repeatCount="indefinite"/></circle>
-  <path fill="url(#fw1)" opacity="0.6">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0,50 C150,20 300,75 450,45 C600,15 750,65 900,40 L900,0 L0,0 Z;M0,40 C150,65 300,15 450,50 C600,85 750,25 900,50 L900,0 L0,0 Z;M0,50 C150,20 300,75 450,45 C600,15 750,65 900,40 L900,0 L0,0 Z"/>
-  </path>
-  <path fill="url(#fw2)" opacity="0.5">
-    <animate attributeName="d" dur="5s" repeatCount="indefinite"
-      values="M0,65 C120,45 250,80 400,58 C550,36 700,72 900,55 L900,0 L0,0 Z;M0,55 C120,72 250,38 400,65 C550,92 700,48 900,62 L900,0 L0,0 Z;M0,65 C120,45 250,80 400,58 C550,36 700,72 900,55 L900,0 L0,0 Z"/>
-  </path>
-  <path fill="#00D4FF" opacity="0.12">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="M0,75 C200,58 400,85 600,65 C750,50 850,72 900,68 L900,0 L0,0 Z;M0,68 C200,80 400,52 600,75 C750,90 850,60 900,72 L900,0 L0,0 Z;M0,75 C200,58 400,85 600,65 C750,50 850,72 900,68 L900,0 L0,0 Z"/>
-  </path>
-</svg>
-</p>
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="3px"/>
