@@ -53,10 +53,10 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 📌 PROJECTS
 
-- 🔹 [Seismarch](https://seismarch.com/)
-- 🔹 [FairFarm Bangladesh](https://www.fairfarm.com.bd/)
-- 🔹 [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
-- 🔹 [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
+-  [Seismarch](https://seismarch.com/)
+-  [FairFarm Bangladesh](https://www.fairfarm.com.bd/)
+-  [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
+-  [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
 
 
 ---
@@ -65,7 +65,8 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img src="https://via.placeholder.com/150"/></td>
+<td><img src="<img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/8b13b28a-8435-49d8-8288-5856bf668805" />
+"/></td>
 <td><img src="https://via.placeholder.com/150"/></td>
 <td><img src="https://via.placeholder.com/150"/></td>
 <td><img src="https://via.placeholder.com/150"/></td>
