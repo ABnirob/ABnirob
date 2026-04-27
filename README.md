@@ -65,10 +65,10 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><<img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/52cde2a5-4cd6-4c46-a527-255c6e86f596" />
-/>
+<td><img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/52cde2a5-4cd6-4c46-a527-255c6e86f596" />
 "/></td>
-<td><img src="https://via.placeholder.com/150"/></td>
+<td><img width="2000" height="1414" alt="Md  Abul Bashar Nirob" src="https://github.com/user-attachments/assets/bf18de66-fbf7-493c-88cf-45b3d7bf1ba2" />
+</td>
 <td><img src="https://via.placeholder.com/150"/></td>
 <td><img src="https://via.placeholder.com/150"/></td>
 </tr>
