@@ -67,11 +67,11 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 <tr>
 <td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" />
 </td>
-<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/83a7ba63-7c47-4d45-9b22-2651d60115c0" />
+<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" />
 </td>
 <td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" />
 </td>
-<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/a69f46b3-0659-47f6-a380-70186f7b8403" />
+<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" />
 </td>
 </tr>
 <tr>
