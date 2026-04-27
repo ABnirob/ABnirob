@@ -1,14 +1,11 @@
-<!-- 🌊 OCEAN HEADER (STATIC SAFE LOAD) -->
+<!-- 🌊 OCEAN HEADER (WORKING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABnirob/assets/main/header.svg"/>
+  <img src="https://raw.githubusercontent.com/ABnirob/assets/main/header.svg" width="100%"/>
 </p>
-
-<!-- NAME (VISIBLE GUARANTEED) -->
-<h1 align="center">Md. Abul Bashar Nirob</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+%26+Business+Analyst+%7C+Future+Data+Engineer;Designing+Scalable+Data+Systems;AI-Driven+Decision+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Md.+Abul+Bashar+Nirob;Data+%26+Business+Analyst+%7C+Future+Data+Engineer;Designing+Scalable+Data+Systems;AI-Driven+Decision+Builder"/>
 </p>
 
 <p align="center">
@@ -21,11 +18,11 @@
 
 ## 🧠 About Me
 
-Data & Business Analyst with a strong foundation in Computer Science, specializing in transforming complex data into structured, decision-ready insights.  
+I am a **Data & Business Analyst** with a strong foundation in **Computer Science and real-world business analytics**, specializing in transforming data into **measurable business impact**.
 
-Experienced in dashboard development, reporting systems, and stakeholder-driven analytics that directly influence business outcomes.  
+I have hands-on experience in **dashboard development, data modeling, reporting systems, and stakeholder-driven analytics**, contributing to real growth across multiple projects.
 
-Currently transitioning into Data Engineering, focusing on building scalable pipelines and architectures, with a long-term vision of developing AI-driven intelligent systems.
+Currently transitioning into **Data Engineering**, I focus on building **scalable pipelines, structured data systems, and future-ready architectures**, with a long-term goal of advancing into **AI-driven Data Science**.
 
 ---
 
@@ -50,27 +47,11 @@ Currently transitioning into Data Engineering, focusing on building scalable pip
 
 ---
 
-## 🚀 Projects
-
-<p align="center">
-
-<a href="https://seismarch.com/">
-  <img src="https://img.shields.io/badge/Seismarch%20Platform-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.fairfarm.com.bd/">
-  <img src="https://img.shields.io/badge/FairFarm%20Bangladesh-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-">
-  <img src="https://img.shields.io/badge/SwiftAuto%20Analytics-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git">
-  <img src="https://img.shields.io/badge/LLM%20Data%20Accountability-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-</p>
+## 📌 Projects
+🔹 Seismarch → +40% sales  
+🔹 FairFarm → +35% traffic, +25% sales  
+🔹 SwiftAuto Dashboard → BI insights  
+🔹 LLM Data Accountability → AI research  
 
 ---
 
@@ -98,7 +79,7 @@ Currently transitioning into Data Engineering, focusing on building scalable pip
 
 <!-- 🌊 FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABnirob/assets/main/footer.svg"/>
+  <img src="https://raw.githubusercontent.com/ABnirob/assets/main/footer.svg" width="100%"/>
 </p>
 
 <p align="center">
