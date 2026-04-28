@@ -1,6 +1,6 @@
-<!-- 🌊 NIGHT OCEAN WAVE (No text inside - guaranteed to work) -->
+<!-- 🌊 DEEP BLUE NIGHT OCEAN WAVE (No text inside - guaranteed to work) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2a,50:0f1b3d,100:1a2a5e&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001233,100:000451&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
  
 <!-- Your Name with Animation (Below wave) -->
@@ -69,7 +69,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 🏆 CERTIFICATIONS
 
-<table>
+<tr>
   <tr>
      <td><img width="1650" height="1275" alt="1" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
      <td><img width="1650" height="1275" alt="4" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
@@ -88,7 +88,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 🎓 COURSE CREDENTIALS
 
-<table>
+</table>
   <tr>
      <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
      <td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
@@ -108,8 +108,8 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=dark&bg_color=000000&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=dark&background=000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff" height="170"/>
 </p>
 
 ---
@@ -144,7 +144,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 NIGHT OCEAN FOOTER WAVE -->
+<!-- 🌊 DEEP BLUE NIGHT OCEAN FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e20,50:0d1b3e,100:0a2342&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000814,100:001233&height=120&section=footer"/>
 </p>
