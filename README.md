@@ -1,6 +1,6 @@
-<!-- 🌊 HEADER - Sunrise in Ocean Wave -->
+<!-- 🌊 HEADER - Sunrise in Ocean -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:1a3a6b,60:c96b2f,80:f4a83a,100:fdd87a&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%C2%B7%20Future%20Data%20Scientist&descAlignY=58&descSize=14&fontAlpha=0.95" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/sunrise-header.svg" width="100%" alt="Sunrise Ocean Header"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -57,31 +57,22 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 -  [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
 -  [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
 
-
 ---
 
 ## 🏆 CERTIFICATIONS
 
 <table>
 <tr>
-<td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" />
-</td>
-<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" />
-</td>
-<td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" />
-</td>
-<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" />
-</td>
+<td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
+<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
+<td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" /></td>
+<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" /></td>
 </tr>
 <tr>
-<td><img width="1650" height="1275" alt="5  complete course certificate of Microsoft Business Analyst Professional Certificat - Coursera PCKTIW31YYDU_page-0001" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" />
-</td>
-<td><img width="1650" height="1275" alt="2  Complete Course  Google Advanced Data Analytics Professional Certificate 7 in 1 Coursera 0C3MT1UQL23N_page-0001" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" />
-</td>
-<td><img width="1650" height="1275" alt="6  Complete course of Unlock Business Insights with Microsoft Excel and Power BI - Coursera QPQSYW5Y99R0_page-0001" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" />
-</td>
-<td><img width="2376" height="1836" alt="8  md_abul_bashar_nirob_alp_2024_certificate_of_completion(1)" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" />
-</td>
+<td><img width="1650" height="1275" alt="5  complete course certificate of Microsoft Business Analyst Professional Certificat - Coursera PCKTIW31YYDU_page-0001" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" /></td>
+<td><img width="1650" height="1275" alt="2  Complete Course  Google Advanced Data Analytics Professional Certificate 7 in 1 Coursera 0C3MT1UQL23N_page-0001" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" /></td>
+<td><img width="1650" height="1275" alt="6  Complete course of Unlock Business Insights with Microsoft Excel and Power BI - Coursera QPQSYW5Y99R0_page-0001" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" /></td>
+<td><img width="2376" height="1836" alt="8  md_abul_bashar_nirob_alp_2024_certificate_of_completion(1)" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" /></td>
 </tr>
 </table>
 
@@ -91,24 +82,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" />
-</td>
-<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" />
-</td>
-<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" />
-</td>
-<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" />
-</td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
+<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
+<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" /></td>
+<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" /></td>
 </tr>
 <tr>
-<td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" />
-</td>
-<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" />
-</td>
-<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" />
-</td>
-<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" />
-</td>
+<td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" /></td>
+<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" /></td>
+<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" /></td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" /></td>
 </tr>
 </table>
 
@@ -145,13 +128,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ---
 
-<div align="center">
-
-Building **scalable data systems today** to power **intelligent AI-driven decisions tomorrow**.
-
-</div>
-
-<!-- 🌅 FOOTER - Sunset in Ocean Wave -->
+<!-- 🌅 FOOTER - Sunset in Ocean -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:5c1a6b,50:c0392b,75:e67e22,100:f9ca4f&height=160&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/sunset-footer.svg" width="100%" alt="Sunset Ocean Footer"/>
 </p>
