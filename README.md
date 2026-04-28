@@ -1,6 +1,6 @@
 <!-- 🌊 DEEP BLUE NIGHT OCEAN WAVE (No text inside - guaranteed to work) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001233,100:000451&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001233,100:000451&height=220&section=header&text= Hi I am Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
  
 <!-- Your Name with Animation (Below wave) -->
