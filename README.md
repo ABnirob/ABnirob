@@ -1,7 +1,6 @@
 <!-- 🌊 HEADER - Sunrise in Ocean -->
 <!-- OCEAN WAVE HEADER — hosted in your own repo -->
-<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/header_wave.svg" width="100%" alt="header"/>
-
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/header_wave.svg" width="100%"/>
 <!-- Name + Title Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Md.+Abul+Bashar+Nirob" alt="Name"/>
