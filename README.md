@@ -146,6 +146,6 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <!-- 🌊 DARK BLUE OCEAN FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000814,100:001233&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:000814,100:001233&height=120&section=footer"/>
 </p>
 
