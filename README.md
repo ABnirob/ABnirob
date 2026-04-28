@@ -1,6 +1,6 @@
-<!-- 🌊 DARK BLUE OCEAN WAVE (No text inside - guaranteed to work) -->
+<!-- 🌊 NIGHT OCEAN WAVE (No text inside - guaranteed to work) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2a,50:0f1b3d,100:1a2a5e&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
  
 <!-- Your Name with Animation (Below wave) -->
@@ -71,16 +71,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
   <tr>
-    <td><img width="1650" height="1275" alt="1" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
-    <td><img width="1650" height="1275" alt="4" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
-    <td><img width="1650" height="1275" alt="3" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" /></td>
-    <td><img width="1650" height="1275" alt="7" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" /></td>
+     <td><img width="1650" height="1275" alt="1" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
+     <td><img width="1650" height="1275" alt="4" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
+     <td><img width="1650" height="1275" alt="3" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" /></td>
+     <td><img width="1650" height="1275" alt="7" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" /></td>
   </tr>
   <tr>
-    <td><img width="1650" height="1275" alt="5" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" /></td>
-    <td><img width="1650" height="1275" alt="2" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" /></td>
-    <td><img width="1650" height="1275" alt="6" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" /></td>
-    <td><img width="2376" height="1836" alt="8" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" /></td>
+     <td><img width="1650" height="1275" alt="5" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" /></td>
+     <td><img width="1650" height="1275" alt="2" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" /></td>
+     <td><img width="1650" height="1275" alt="6" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" /></td>
+     <td><img width="2376" height="1836" alt="8" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" /></td>
   </tr>
 </table>
 
@@ -90,16 +90,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
   <tr>
-    <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
-    <td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
-    <td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" /></td>
-    <td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" /></td>
+     <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
+     <td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
+     <td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" /></td>
+     <td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" /></td>
   </tr>
   <tr>
-    <td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" /></td>
-    <td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" /></td>
-    <td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" /></td>
-    <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" /></td>
+     <td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" /></td>
+     <td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" /></td>
+     <td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" /></td>
+     <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" /></td>
   </tr>
 </table>
 
@@ -144,8 +144,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 DARK BLUE OCEAN FOOTER WAVE -->
+<!-- 🌊 NIGHT OCEAN FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:000080&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e20,50:0d1b3e,100:0a2342&height=120&section=footer"/>
 </p>
- 
