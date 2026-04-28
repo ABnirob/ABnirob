@@ -1,7 +1,30 @@
-<!-- 🌊 HEADER - Sunrise in Ocean -->
+<!-- OCEAN WAVE HEADER — hosted in your own repo -->
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/header_wave.svg" width="100%" alt="header"/>
+<!-- Name + Title Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/sunrise-header.svg" width="100%" alt="Sunrise Ocean Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Md.+Abul+Bashar+Nirob" alt="Name"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=00D4FF&background=00000000&center=true&vCenter=true&width=900&height=40&lines=Data+%26+Business+Analyst+%7C+Future+Data+Engineer;Turning+Data+into+Decisions+%7C+Building+Pipelines+for+Tomorrow;TrillionData+%7C+North+South+University+%7C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" alt="Title"/>
+</p>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/ABnirob">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:ab.nirob.7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/ab.nirob.7">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ABnirob&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <!-- 🔥 SOCIAL ICON BAR -->
 <p align="center">
@@ -128,7 +151,11 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ---
 
-<!-- 🌅 FOOTER - Sunset in Ocean -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/sunset-footer.svg" width="100%" alt="Sunset Ocean Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D4FF&center=true&vCenter=true&width=780&lines=Data+is+not+just+numbers+%E2%80%94+it%27s+the+language+of+every+strategic+decision.;Building+today%27s+dashboards+%7C+Engineering+tomorrow%27s+pipelines.;The+future+belongs+to+those+who+build+it+%E2%80%94+one+model+at+a+time." alt="Footer Typing"/>
+  <br/><br/>
+  <strong>Md. Abul Bashar Nirob</strong> &nbsp;·&nbsp; <code>Data & Business Analyst</code> &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩<br/>
+  <sub><em>Open to collaborations, data projects, and conversations about the future of analytics.</em></sub>
 </p>
+<!-- OCEAN WAVE FOOTER — hosted in your own repo -->
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/footer_wave.svg" width="100%" alt="footer"/>
