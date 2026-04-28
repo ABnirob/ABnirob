@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Md.+Abul+Bashar+Nirob" alt="Name"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=00D4FF&background=00000000&center=true&vCenter=true&width=900&height=40&lines=Data+%26+Business+Analyst+%7C+Future+Data+Engineer;Turning+Data+into+Decisions+%7C+Building+Pipelines+for+Tomorrow;TrillionData+%7C+North+South+University+%7C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" alt="Title"/>
-</p>
+ 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
