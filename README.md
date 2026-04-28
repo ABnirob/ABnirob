@@ -1,17 +1,13 @@
- 
-<!-- 🌌 HEADER BACKGROUND (STATIC CINEMATIC IMAGE) -->
 <p align="center">
   <img src="https://i.imgur.com/4M7IWwP.jpg" width="100%" />
 </p>
 
-<!-- 🌙 NAME (WORKING TYPING EFFECT) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Md.+Abul+Bashar+Nirob" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Md.+Abul+Bashar+Nirob" />
 </p>
 
-<!-- 🌊 TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+%26+Business+Analyst;Future+Data+Engineer;AI+%26+Data+Science+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+%26+Business+Analyst;Future+Data+Engineer;AI+%26+Analytics+Builder" />
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
