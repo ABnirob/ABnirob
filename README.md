@@ -69,7 +69,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 🏆 CERTIFICATIONS
 
-<tr>
+<table>
   <tr>
      <td><img width="1650" height="1275" alt="1" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
      <td><img width="1650" height="1275" alt="4" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
@@ -88,7 +88,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 🎓 COURSE CREDENTIALS
 
-</table>
+<table>
   <tr>
      <td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
      <td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
@@ -108,8 +108,8 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=dark&bg_color=000000&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=dark&background=000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=tokyonight" height="170"/>
 </p>
 
 ---
