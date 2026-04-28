@@ -1,71 +1,6 @@
-<!-- 🌊 HEADER -->
+<!-- 🌊 HEADER - Sunrise in Ocean -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%">
-    <!-- Sky gradient - sunrise colors -->
-    <defs>
-      <linearGradient id="sunrisesky" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#0a1628"/>
-        <stop offset="35%" stop-color="#1a3a6b"/>
-        <stop offset="60%" stop-color="#c96b2f"/>
-        <stop offset="80%" stop-color="#f4a83a"/>
-        <stop offset="100%" stop-color="#fdd87a"/>
-      </linearGradient>
-      <linearGradient id="sunriseocean" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#1e5fa8"/>
-        <stop offset="50%" stop-color="#0d3d7a"/>
-        <stop offset="100%" stop-color="#061e3f"/>
-      </linearGradient>
-      <linearGradient id="sunglow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" gradientUnits="objectBoundingBox" id="sunglow2">
-        <stop offset="0%" stop-color="#ffe066" stop-opacity="1"/>
-        <stop offset="60%" stop-color="#f4a83a" stop-opacity="0.5"/>
-        <stop offset="100%" stop-color="#f4a83a" stop-opacity="0"/>
-      </linearGradient>
-      <radialGradient id="sunglow2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#fffbe0" stop-opacity="0.9"/>
-        <stop offset="40%" stop-color="#f4a83a" stop-opacity="0.5"/>
-        <stop offset="100%" stop-color="#f4a83a" stop-opacity="0"/>
-      </radialGradient>
-      <clipPath id="headerclip">
-        <rect width="900" height="220"/>
-      </clipPath>
-    </defs>
-    <!-- Sky -->
-    <rect width="900" height="220" fill="url(#sunrisesky)" clip-path="url(#headerclip)"/>
-    <!-- Sun glow halo -->
-    <ellipse cx="450" cy="128" rx="90" ry="60" fill="url(#sunglow2)" opacity="0.85"/>
-    <!-- Sun half rising -->
-    <ellipse cx="450" cy="132" rx="32" ry="32" fill="#ffe066" opacity="1"/>
-    <ellipse cx="450" cy="150" rx="32" ry="16" fill="#1e5fa8"/>
-    <!-- Horizon light streak -->
-    <ellipse cx="450" cy="132" rx="260" ry="18" fill="#f4a83a" opacity="0.18"/>
-    <!-- Ocean -->
-    <rect y="132" width="900" height="88" fill="url(#sunriseocean)" clip-path="url(#headerclip)"/>
-    <!-- Sun reflection on water -->
-    <ellipse cx="450" cy="145" rx="30" ry="7" fill="#ffe066" opacity="0.45"/>
-    <rect x="440" y="150" width="20" height="55" fill="#ffe066" opacity="0.13" rx="8"/>
-    <!-- Wave 1 -->
-    <path d="M0 148 Q45 140 90 148 Q135 156 180 148 Q225 140 270 148 Q315 156 360 148 Q405 140 450 148 Q495 156 540 148 Q585 140 630 148 Q675 156 720 148 Q765 140 810 148 Q855 156 900 148 L900 165 L0 165 Z" fill="#1a4d8f" opacity="0.7"/>
-    <!-- Wave 2 -->
-    <path d="M0 158 Q50 150 100 158 Q150 166 200 158 Q250 150 300 158 Q350 166 400 158 Q450 150 500 158 Q550 166 600 158 Q650 150 700 158 Q750 166 800 158 Q850 150 900 158 L900 178 L0 178 Z" fill="#143e72" opacity="0.8"/>
-    <!-- Wave 3 -->
-    <path d="M0 170 Q60 163 120 170 Q180 177 240 170 Q300 163 360 170 Q420 177 480 170 Q540 163 600 170 Q660 177 720 170 Q780 163 840 170 Q870 177 900 170 L900 195 L0 195 Z" fill="#0d2d56" opacity="0.85"/>
-    <!-- Wave foam lines -->
-    <path d="M0 155 Q45 151 90 155 Q135 159 180 155" stroke="#a8d0f5" stroke-width="1" fill="none" opacity="0.35"/>
-    <path d="M300 162 Q345 158 390 162 Q435 166 480 162" stroke="#a8d0f5" stroke-width="1" fill="none" opacity="0.3"/>
-    <path d="M600 155 Q650 151 700 155 Q750 159 800 155" stroke="#a8d0f5" stroke-width="1" fill="none" opacity="0.3"/>
-    <!-- Stars (fading) -->
-    <circle cx="80" cy="28" r="1.2" fill="white" opacity="0.6"/>
-    <circle cx="160" cy="15" r="1" fill="white" opacity="0.5"/>
-    <circle cx="240" cy="40" r="1.3" fill="white" opacity="0.4"/>
-    <circle cx="370" cy="20" r="1" fill="white" opacity="0.5"/>
-    <circle cx="700" cy="18" r="1.1" fill="white" opacity="0.55"/>
-    <circle cx="780" cy="35" r="1.2" fill="white" opacity="0.45"/>
-    <circle cx="840" cy="12" r="1" fill="white" opacity="0.5"/>
-    <circle cx="550" cy="30" r="0.9" fill="white" opacity="0.4"/>
-    <!-- Name text -->
-    <text x="450" y="96" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700" fill="white" opacity="0.95" letter-spacing="1">Md. Abul Bashar Nirob</text>
-    <text x="450" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="400" fill="#fdd87a" opacity="0.85" letter-spacing="2">Data &amp; Business Analyst · Future Data Scientist</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,25:1a3a6b,50:c96b2f,75:f4a83a,100:fdd87a&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%C2%B7%20Future%20Data%20Scientist&descAlignY=58&descSize=14&descAlpha=0.85&fontAlpha=0.95"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -216,68 +151,7 @@ Building **scalable data systems today** to power **intelligent AI-driven decisi
 
 </div>
 
-<!-- 🌊 FOOTER - Sunset in Ocean -->
+<!-- 🌅 FOOTER - Sunset in Ocean -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
-    <defs>
-      <linearGradient id="sunsetsky" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#1a0533"/>
-        <stop offset="25%" stop-color="#5c1a6b"/>
-        <stop offset="50%" stop-color="#c0392b"/>
-        <stop offset="72%" stop-color="#e67e22"/>
-        <stop offset="88%" stop-color="#f39c12"/>
-        <stop offset="100%" stop-color="#f9ca4f"/>
-      </linearGradient>
-      <linearGradient id="sunsetocean" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#7b2d8b" stop-opacity="0.7"/>
-        <stop offset="40%" stop-color="#3d1066"/>
-        <stop offset="100%" stop-color="#0d0620"/>
-      </linearGradient>
-      <radialGradient id="sunsethalo" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#f9ca4f" stop-opacity="0.8"/>
-        <stop offset="45%" stop-color="#e67e22" stop-opacity="0.35"/>
-        <stop offset="100%" stop-color="#c0392b" stop-opacity="0"/>
-      </radialGradient>
-      <clipPath id="footerclip">
-        <rect width="900" height="200"/>
-      </clipPath>
-    </defs>
-    <!-- Sky -->
-    <rect width="900" height="200" fill="url(#sunsetsky)" clip-path="url(#footerclip)"/>
-    <!-- Sun halo -->
-    <ellipse cx="450" cy="100" rx="85" ry="55" fill="url(#sunsethalo)" opacity="0.9"/>
-    <!-- Sun half setting -->
-    <ellipse cx="450" cy="104" rx="30" ry="30" fill="#f9ca4f"/>
-    <ellipse cx="450" cy="118" rx="30" ry="15" fill="#3d1066"/>
-    <!-- Horizon shimmer -->
-    <ellipse cx="450" cy="104" rx="240" ry="14" fill="#e67e22" opacity="0.15"/>
-    <!-- Ocean -->
-    <rect y="104" width="900" height="96" fill="url(#sunsetocean)" clip-path="url(#footerclip)"/>
-    <!-- Sun path on water -->
-    <ellipse cx="450" cy="116" rx="28" ry="6" fill="#f9ca4f" opacity="0.4"/>
-    <rect x="441" y="120" width="18" height="60" fill="#f9ca4f" opacity="0.1" rx="7"/>
-    <!-- Wave 1 -->
-    <path d="M0 118 Q45 111 90 118 Q135 125 180 118 Q225 111 270 118 Q315 125 360 118 Q405 111 450 118 Q495 125 540 118 Q585 111 630 118 Q675 125 720 118 Q765 111 810 118 Q855 125 900 118 L900 136 L0 136 Z" fill="#5c1a6b" opacity="0.65"/>
-    <!-- Wave 2 -->
-    <path d="M0 130 Q50 123 100 130 Q150 137 200 130 Q250 123 300 130 Q350 137 400 130 Q450 123 500 130 Q550 137 600 130 Q650 123 700 130 Q750 137 800 130 Q850 123 900 130 L900 150 L0 150 Z" fill="#3d1066" opacity="0.75"/>
-    <!-- Wave 3 -->
-    <path d="M0 144 Q60 137 120 144 Q180 151 240 144 Q300 137 360 144 Q420 151 480 144 Q540 137 600 144 Q660 151 720 144 Q780 137 840 144 Q870 151 900 144 L900 172 L0 172 Z" fill="#1a0533" opacity="0.9"/>
-    <!-- Wave foam -->
-    <path d="M0 126 Q45 122 90 126 Q135 130 180 126" stroke="#d7a8f0" stroke-width="1" fill="none" opacity="0.3"/>
-    <path d="M310 133 Q355 129 400 133 Q445 137 490 133" stroke="#d7a8f0" stroke-width="1" fill="none" opacity="0.25"/>
-    <path d="M620 126 Q670 122 720 126 Q770 130 820 126" stroke="#d7a8f0" stroke-width="1" fill="none" opacity="0.28"/>
-    <!-- Stars appearing -->
-    <circle cx="100" cy="18" r="1.3" fill="white" opacity="0.7"/>
-    <circle cx="200" cy="8" r="1" fill="white" opacity="0.6"/>
-    <circle cx="310" cy="25" r="1.1" fill="white" opacity="0.55"/>
-    <circle cx="650" cy="12" r="1.2" fill="white" opacity="0.65"/>
-    <circle cx="760" cy="30" r="1" fill="white" opacity="0.5"/>
-    <circle cx="840" cy="10" r="1.3" fill="white" opacity="0.6"/>
-    <circle cx="560" cy="22" r="0.9" fill="white" opacity="0.5"/>
-    <!-- Venus/bright star -->
-    <circle cx="730" cy="48" r="2" fill="white" opacity="0.85"/>
-    <!-- Footer text -->
-    <text x="450" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="400" fill="#f9ca4f" opacity="0.88" letter-spacing="2">Building scalable data systems today</text>
-    <text x="450" y="97" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="400" fill="#f0d9ff" opacity="0.75" letter-spacing="1">to power intelligent AI-driven decisions tomorrow.</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,20:5c1a6b,45:c0392b,70:e67e22,90:f39c12,100:f9ca4f&height=160&section=footer&text=&animation=fadeIn"/>
 </p>
