@@ -11,7 +11,7 @@
 <div align="center">
   <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
 </div>
- 
+---
 
 <!-- 🔥 SOCIAL ICON BAR -->
 <p align="center">
