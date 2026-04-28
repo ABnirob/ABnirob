@@ -1,127 +1,148 @@
- 
-<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<!-- 🌊 HEADER - Sunrise in Ocean -->
+<!-- OCEAN WAVE HEADER — hosted in your own repo -->
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/header_wave.svg" width="100%" alt="header"/>
 
-  <defs>
+<!-- Name + Title Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Md.+Abul+Bashar+Nirob" alt="Name"/>
+</p>
 
-    <!-- 🌌 NIGHT SKY GRADIENT -->
-    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#01010f"/>
-      <stop offset="40%" stop-color="#061a3a"/>
-      <stop offset="100%" stop-color="#0f2a3a"/>
-    </linearGradient>
+<p align="center">
+  <!-- ✅ FIX: Properly closed img tag -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=00D4FF&background=00000000&center=true&vCenter=true&width=900&height=40&lines=Data+%26+Business+Analyst+%7C+Future+Data+Engineer;Turning+Data+into+Decisions+%7C+Building+Pipelines+for+Tomorrow;TrillionData+%7C+North+South+University+%7C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing"/>
+</p>
 
-    <!-- 🌊 DEEP OCEAN -->
-    <linearGradient id="ocean" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#081826"/>
-      <stop offset="100%" stop-color="#123a5a"/>
-    </linearGradient>
+<!-- 🔥 SOCIAL ICON BAR -->
+<p align="center">
+  <a href="mailto:abnirob40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow"/></a>
+</p>
 
-    <!-- 🌙 MOON GLOW -->
-    <radialGradient id="moonGlow">
-      <stop offset="0%" stop-color="white" stop-opacity="1"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </radialGradient>
+---
 
-    <!-- ✨ STAR GLOW -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="1.2"/>
-    </filter>
+## 🧠 About Me
 
-    <!-- 🌫️ DEPTH BLUR -->
-    <filter id="soft">
-      <feGaussianBlur stdDeviation="6"/>
-    </filter>
+I am a **Data & Business Analyst** with a strong academic foundation in **Computer Science & Engineering** and hands-on experience delivering **data-driven solutions that directly impact business performance**.
 
-    <!-- ✨ LIGHT SHINE -->
-    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="white" stop-opacity="0"/>
-      <stop offset="50%" stop-color="white" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </linearGradient>
+My expertise lies in transforming raw, complex datasets into **structured insights, KPI-driven dashboards, and strategic recommendations** that support operational and executive decision-making. I have contributed to real-world business growth by optimizing reporting systems, improving data workflows, and enabling stakeholders with **clear, actionable intelligence**.
 
-  </defs>
+Beyond analytics, I focus on **building scalable data systems**—a natural progression into **Data Engineering**, where I am actively developing skills in **data pipelines, architecture design, and large-scale data processing**.
 
-  <!-- 🌌 SKY -->
-  <rect width="100%" height="100%" fill="url(#sky)"/>
+My long-term vision is to evolve into a **Data Scientist**, combining **data engineering foundations with machine learning and AI** to design intelligent, automated decision ecosystems.
 
-  <!-- ⭐ STARS (animated twinkle) -->
-  <g fill="white" filter="url(#glow)">
-    <circle cx="120" cy="60" r="1.2">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="90" r="1.5">
-      <animate attributeName="opacity" values="0.1;1;0.1" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="520" cy="40" r="1.3">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="780" cy="70" r="1.4">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1000" cy="50" r="1.2">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+---
 
-  <!-- 🌙 CRESCENT MOON -->
-  <g>
-    <circle cx="950" cy="80" r="34" fill="white"/>
-    <circle cx="962" cy="75" r="34" fill="#01010f"/>
-    <circle cx="950" cy="80" r="60" fill="url(#moonGlow)" opacity="0.25"/>
-  </g>
+## ⚙️ TECH STACK
 
-  <!-- 🌊 OCEAN BASE -->
-  <rect y="170" width="100%" height="200" fill="url(#ocean)"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,powershell" height="45"/>
+</p>
 
-  <!-- 🌊 WAVE LAYER 1 -->
-  <path d="M0,220 C300,280 900,140 1200,200 L1200,360 L0,360 Z"
-        fill="white" opacity="0.06">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-      M0,220 C300,280 900,140 1200,200 L1200,360 L0,360 Z;
-      M0,240 C350,260 850,180 1200,220 L1200,360 L0,360 Z;
-      M0,220 C300,280 900,140 1200,200 L1200,360 L0,360 Z"/>
-  </path>
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-8E24AA?style=for-the-badge"/>
+</p>
 
-  <!-- 🌊 WAVE LAYER 2 -->
-  <path d="M0,250 C400,320 800,180 1200,240 L1200,360 L0,360 Z"
-        fill="white" opacity="0.12" filter="url(#soft)">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
-      values="
-      M0,250 C400,320 800,180 1200,240 L1200,360 L0,360 Z;
-      M0,270 C350,300 850,200 1200,260 L1200,360 L0,360 Z;
-      M0,250 C400,320 800,180 1200,240 L1200,360 L0,360 Z"/>
-  </path>
+---
 
-  <!-- 🌊 WAVE LAYER 3 -->
-  <path d="M0,280 C300,340 900,220 1200,270 L1200,360 L0,360 Z"
-        fill="white" opacity="0.18"/>
+## 📌 PROJECTS
 
-  <!-- ✨ SHINE -->
-  <rect x="-1200" y="170" width="1200" height="200" fill="url(#shine)">
-    <animate attributeName="x" from="-1200" to="1200" dur="7s" repeatCount="indefinite"/>
-  </rect>
+-  [Seismarch](https://seismarch.com/)
+-  [FairFarm Bangladesh](https://www.fairfarm.com.bd/)
+-  [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
+-  [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
 
-  <!-- 🔥 TYPOGRAPHY (CINEMATIC CENTER TEXT) -->
-  <text x="50%" y="120" text-anchor="middle"
-        fill="white"
-        font-size="34"
-        font-family="Fira Code, monospace">
+---
 
-    <!-- fake typing effect -->
-    <tspan opacity="0">M<animate attributeName="opacity" to="1" begin="0s" dur="0.1s" fill="freeze"/></tspan>
-    <tspan opacity="0">d<animate attributeName="opacity" to="1" begin="0.1s" dur="0.1s" fill="freeze"/></tspan>
-    <tspan opacity="0">.</tspan>
-    <tspan> Abul Bashar Nirob</tspan>
+## 🏆 CERTIFICATIONS
 
-  </text>
+<table>
+<tr>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" /></td>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" /></td>
+</tr>
+<tr>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" /></td>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" /></td>
+<td><img width="1650" height="1275" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" /></td>
+<td><img width="2376" height="1836" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" /></td>
+</tr>
+</table>
 
-  <text x="50%" y="155" text-anchor="middle"
-        fill="#00D4FF"
-        font-size="16"
-        font-family="Fira Code, monospace">
-    Data & Business Analyst | Future Data Engineer | AI Explorer
-  </text>
+---
 
-</svg>
+## 🎓 COURSE CREDENTIALS
 
+<table>
+<tr>
+<td><img width="330" height="330" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
+<td><img width="334" height="334" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
+<td><img width="166" height="166" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" /></td>
+<td><img width="334" height="334" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" /></td>
+</tr>
+<tr>
+<td><img width="337" height="337" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" /></td>
+<td><img width="330" height="330" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" /></td>
+<td><img width="334" height="334" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" /></td>
+<td><img width="330" height="330" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" /></td>
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+- Data Engineering (ETL Pipelines)
+- Cloud Architecture (AWS / GCP)
+- Big Data Systems
+- Machine Learning Foundations
+
+---
+
+## 🤝 CONNECT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge"/>
+  </a>
+  <a href="mailto:abnirob40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌅 FOOTER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D4FF&center=true&vCenter=true&width=780&lines=Data+is+not+just+numbers+%E2%80%94+it%27s+the+language+of+every+strategic+decision.;Building+today%27s+dashboards+%7C+Engineering+tomorrow%27s+pipelines.;The+future+belongs+to+those+who+build+it+%E2%80%94+one+model+at+a+time." alt="Footer Typing"/>
+  <br/><br/>
+  <strong>Md. Abul Bashar Nirob</strong> &nbsp;·&nbsp; <code>Data & Business Analyst</code> &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩<br/>
+  <sub><em>Open to collaborations, data projects, and conversations about the future of analytics.</em></sub>
+</p>
+
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/footer_wave.svg" width="100%" alt="footer"/>
