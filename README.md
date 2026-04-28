@@ -1,5 +1,5 @@
 <!-- 🌊 HEADER -->
-<!-- 🌌 CINEMATIC HEADER BACKGROUND -->
+<!-- 🌌 CINEMATIC HEADER BACKGROUND --> 
 <p align="center">
   <img src="https://i.imgur.com/4M7IWwP.jpg" width="100%" />
 </p>
