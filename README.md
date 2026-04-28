@@ -1,6 +1,6 @@
-<!-- 🌊 HEADER WITH ANIMATED TITLE -->
+<!-- 🌊 HEADER WITH ANIMATED TEXT INSIDE WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20%26%20Business%20Analyst%20%7C%20Data%20Engineer%20(WIP)%20%7C%20Future%20Data%20Scientist&descSize=16&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Hi+there!+👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=I'm+Md.+Abul+Bashar+Nirob+%7C+Data+%26+Business+Analyst+%7C+Future+Data+Scientist&descSize=18&descAlignY=58&descAlign=50"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -17,20 +17,15 @@
 
 ---
 
+<!-- Animated Typing Subtitle (outside wave, below social bar) -->
 <div align="center">
-
-<!-- Animated Typing Subtitle INSIDE the wave style -->
-<a href="https://github.com/ABnirob">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Md.+Abul+Bashar+Nirob+%F0%9F%91%8B;Data+%26+Business+Analyst;Transitioning+into+Data+Engineering;Future+Data+Scientist+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=📊+Data+%26+Business+Analyst;⚙️+Transitioning+into+Data+Engineering;🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Typing SVG" />
+</div>
 
 <br/>
 
-<!-- Tagline with wave-inspired cyan color -->
-<p>
+<div align="center">
   <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
-</p>
-
 </div>
 
 ---
@@ -154,7 +149,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 FOOTER WAVE (MATCHES HEADER) -->
+<!-- 🌊 FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer&fontColor=ffffff&animation=fadeIn"/>
 </p>
