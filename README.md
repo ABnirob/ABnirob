@@ -1,15 +1,6 @@
-<!-- 🌊 WAVE HEADER -->
+<!-- 🌊 DARK BLUE OCEAN WAVE HEADER WITH NAME INSIDE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header"/>
-</p>
-
-<!-- ANIMATED TITLE (Right below wave - looks like it's inside) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=📊+Data+%26+Business+Analyst;⚙️+Transitioning+to+Data+Engineering;🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:000080&height=200&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20%26%20Business%20Analyst&descSize=16&descAlignY=60&descColor=00d4ff"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -25,6 +16,11 @@
 </p>
 
 ---
+
+<!-- Animated Typing Role -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=📊+Data+%26+Business+Analyst;⚙️+Transitioning+to+Data+Engineering;🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
@@ -151,7 +147,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 FOOTER WAVE -->
+<!-- 🌊 DARK BLUE OCEAN FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:000080&height=120&section=footer"/>
 </p>
