@@ -145,9 +145,12 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ---
 
-
 <div align="center">
 
-Building **scalable data systems today** to power **intelligent AI-driven decisions tomorrow**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+is+not+just+numbers+%E2%80%94+it's+the+language+of+every+strategic+decision.;Building+today's+dashboards+%7C+Engineering+tomorrow's+pipelines+%7C+Shaping+the+future+with+ML." alt="Footer Typing" />
+
+**Md. Abul Bashar Nirob** · `Data & Business Analyst` · Dhaka, Bangladesh
+
+*Open to collaborations, data projects, and conversations about the future of analytics.*
 
 </div>
