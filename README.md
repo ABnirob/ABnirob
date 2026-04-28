@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
 </p>
 <div align="center">
-  <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
+  <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time. So Keep in touch..!</strong></em>
 </div>
 ---
 
