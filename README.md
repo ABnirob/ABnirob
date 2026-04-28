@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 <!-- 🌊 DARK BLUE OCEAN WAVE (No text inside - guaranteed to work) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:000080&height=180&section=header"/>
