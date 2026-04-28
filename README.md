@@ -153,3 +153,8 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
