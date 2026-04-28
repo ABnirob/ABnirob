@@ -1,6 +1,6 @@
-<!-- 🌊 HEADER -->
+<!-- 🌊 HEADER WITH ANIMATED TITLE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20%26%20Business%20Analyst%20%7C%20Data%20Engineer%20(WIP)%20%7C%20Future%20Data%20Scientist&descSize=16&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -14,6 +14,24 @@
   <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen"/></a>
   <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow"/></a>
 </p>
+
+---
+
+<div align="center">
+
+<!-- Animated Typing Subtitle INSIDE the wave style -->
+<a href="https://github.com/ABnirob">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Md.+Abul+Bashar+Nirob+%F0%9F%91%8B;Data+%26+Business+Analyst;Transitioning+into+Data+Engineering;Future+Data+Scientist+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Tagline with wave-inspired cyan color -->
+<p>
+  <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
+</p>
+
+</div>
 
 ---
 
@@ -52,11 +70,10 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 📌 PROJECTS
 
--  [Seismarch](https://seismarch.com/)
--  [FairFarm Bangladesh](https://www.fairfarm.com.bd/)
--  [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
--  [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
-
+- [Seismarch](https://seismarch.com/)
+- [FairFarm Bangladesh](https://www.fairfarm.com.bd/)
+- [SwiftAuto Traders Dashboard](https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-)
+- [LLM Data Accountability](https://github.com/ABnirob/Final-Year-Project-Unveiling-PII-in-Pre-trained-Models-Investigating-Data-Accountability-in-LLMs.git)
 
 ---
 
@@ -64,24 +81,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" />
-</td>
-<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" />
-</td>
-<td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" />
-</td>
-<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" />
-</td>
+<td><img width="1650" height="1275" alt="1  Google Data Analytics Certificate Coursera 8K8M9OFHOYCB 9 in 1_page-0001" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
+<td><img width="1650" height="1275" alt="4  IBM Data Analyst Professional Certificate - Coursera T7NWIM9RYL85_page-0001" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
+<td><img width="1650" height="1275" alt="3  Microsoft Power BI Data Analyst complete course Coursera 2AY7HWGVRZSC_page-0001" src="https://github.com/user-attachments/assets/4e0d1209-2c6e-4e23-8c88-04940325499d" /></td>
+<td><img width="1650" height="1275" alt="7  complete course of Generative AI for Data Analysts Coursera KOPDEB4P3A4J_page-0001" src="https://github.com/user-attachments/assets/032e8340-1676-4a57-8b6e-87e561cc3d2e" /></td>
 </tr>
 <tr>
-<td><img width="1650" height="1275" alt="5  complete course certificate of Microsoft Business Analyst Professional Certificat - Coursera PCKTIW31YYDU_page-0001" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" />
-</td>
-<td><img width="1650" height="1275" alt="2  Complete Course  Google Advanced Data Analytics Professional Certificate 7 in 1 Coursera 0C3MT1UQL23N_page-0001" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" />
-</td>
-<td><img width="1650" height="1275" alt="6  Complete course of Unlock Business Insights with Microsoft Excel and Power BI - Coursera QPQSYW5Y99R0_page-0001" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" />
-</td>
-<td><img width="2376" height="1836" alt="8  md_abul_bashar_nirob_alp_2024_certificate_of_completion(1)" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" />
-</td>
+<td><img width="1650" height="1275" alt="5  complete course certificate of Microsoft Business Analyst Professional Certificat - Coursera PCKTIW31YYDU_page-0001" src="https://github.com/user-attachments/assets/6e147301-485c-40cd-8a8b-57c3d07d40da" /></td>
+<td><img width="1650" height="1275" alt="2  Complete Course  Google Advanced Data Analytics Professional Certificate 7 in 1 Coursera 0C3MT1UQL23N_page-0001" src="https://github.com/user-attachments/assets/b78a39b2-6633-441c-863d-eea2d4eda64c" /></td>
+<td><img width="1650" height="1275" alt="6  Complete course of Unlock Business Insights with Microsoft Excel and Power BI - Coursera QPQSYW5Y99R0_page-0001" src="https://github.com/user-attachments/assets/14cc68f6-13e2-43c6-a307-bd71ce4b35ef" /></td>
+<td><img width="2376" height="1836" alt="8  md_abul_bashar_nirob_alp_2024_certificate_of_completion(1)" src="https://github.com/user-attachments/assets/2c683b53-4c37-4c13-9fac-51d436a98c86" /></td>
 </tr>
 </table>
 
@@ -91,24 +100,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <table>
 <tr>
-<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" />
-</td>
-<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" />
-</td>
-<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" />
-</td>
-<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" />
-</td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/3895a54f-3f8f-4982-a441-38c6dca413ec" /></td>
+<td><img width="334" height="334" alt="2" src="https://github.com/user-attachments/assets/b9ba941b-b4a4-4dab-bbac-3537c3f7260e" /></td>
+<td><img width="166" height="166" alt="4" src="https://github.com/user-attachments/assets/cfdf604f-4f83-42eb-8263-0f7aab1403dc" /></td>
+<td><img width="334" height="334" alt="3" src="https://github.com/user-attachments/assets/60cee9aa-dbf1-41a1-bdfb-3c2d4ce3f42e" /></td>
 </tr>
 <tr>
-<td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" />
-</td>
-<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" />
-</td>
-<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" />
-</td>
-<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" />
-</td>
+<td><img width="337" height="337" alt="5" src="https://github.com/user-attachments/assets/8edf7279-b3b9-4c0e-9de7-7fc485c7052b" /></td>
+<td><img width="330" height="330" alt="7" src="https://github.com/user-attachments/assets/d4ae3855-e647-46b4-875c-be478e0f2bec" /></td>
+<td><img width="334" height="334" alt="6" src="https://github.com/user-attachments/assets/633cd1c2-981c-4cd3-b780-9f90e33e8507" /></td>
+<td><img width="330" height="330" alt="1" src="https://github.com/user-attachments/assets/00bcaa2d-c28d-4614-a1f2-b86decf5bb1f" /></td>
 </tr>
 </table>
 
@@ -153,8 +154,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 FOOTER -->
+<!-- 🌊 FOOTER WAVE (MATCHES HEADER) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
