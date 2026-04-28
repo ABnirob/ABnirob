@@ -4,9 +4,9 @@
 </p>
  
 <!-- Your Name with Animation (Below wave) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
-</p>
+<a href="https://github.com/ABnirob">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Abul+Bashar+Nirob+%F0%9F%91%8B;Data+%26+Business+Analyst;Transitioning+into+Data+Engineering;Future+Data+Scientist+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 <div align="center">
   <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time. So Keep in touch..!</strong></em>
 </div>
