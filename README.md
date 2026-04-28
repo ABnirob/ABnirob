@@ -138,5 +138,10 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <!-- 🌅 FOOTER - Sunset in Ocean -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/sunset-footer.svg" width="100%" alt="Sunset Ocean Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D4FF&center=true&vCenter=true&width=780&lines=Data+is+not+just+numbers+%E2%80%94+it%27s+the+language+of+every+strategic+decision.;Building+today%27s+dashboards+%7C+Engineering+tomorrow%27s+pipelines.;The+future+belongs+to+those+who+build+it+%E2%80%94+one+model+at+a+time." alt="Footer Typing"/>
+  <br/><br/>
+  <strong>Md. Abul Bashar Nirob</strong> &nbsp;·&nbsp; <code>Data & Business Analyst</code> &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩<br/>
+  <sub><em>Open to collaborations, data projects, and conversations about the future of analytics.</em></sub>
 </p>
+<!-- OCEAN WAVE FOOTER — hosted in your own repo -->
+<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/footer_wave.svg" width="100%" alt="footer"/>
