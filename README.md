@@ -1,6 +1,6 @@
-<!-- 🌊 HEADER - Sunrise in Ocean -->
+<!-- 🌊 HEADER - Sunrise in Ocean Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,25:1a3a6b,50:c96b2f,75:f4a83a,100:fdd87a&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%C2%B7%20Future%20Data%20Scientist&descAlignY=58&descSize=14&descAlpha=0.85&fontAlpha=0.95"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:1a3a6b,60:c96b2f,80:f4a83a,100:fdd87a&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%C2%B7%20Future%20Data%20Scientist&descAlignY=58&descSize=14&fontAlpha=0.95" width="100%"/>
 </p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -151,7 +151,7 @@ Building **scalable data systems today** to power **intelligent AI-driven decisi
 
 </div>
 
-<!-- 🌅 FOOTER - Sunset in Ocean -->
+<!-- 🌅 FOOTER - Sunset in Ocean Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,20:5c1a6b,45:c0392b,70:e67e22,90:f39c12,100:f9ca4f&height=160&section=footer&text=&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:5c1a6b,50:c0392b,75:e67e22,100:f9ca4f&height=160&section=footer" width="100%"/>
 </p>
