@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
 </p>
+
+<div align="center">
+  <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
+</div>
  
 
 <!-- 🔥 SOCIAL ICON BAR -->
@@ -21,18 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
----
-
-<!-- Animated Typing Role -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=📊+Data+%26+Business+Analyst;⚙️+Transitioning+to+Data+Engineering;🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time.</strong></em>
-</div>
-
----
+ 
 
 ## 🧠 About Me
 
