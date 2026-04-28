@@ -9,7 +9,6 @@
 <div align="center">
   <em><strong style="color:#00D4FF;">Turning raw data into strategic decisions — one pipeline at a time. So Keep in touch..!</strong></em>
 </div>
----
 
 <!-- 🔥 SOCIAL ICON BAR -->
 <p align="center">
@@ -22,7 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
----
+
  
 
 ## 🧠 About Me
