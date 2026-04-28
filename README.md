@@ -1,28 +1,27 @@
-<!-- 🌊 WAVE HEADER WITH ANIMATED TEXT INSIDE -->
-<div align="center" style="position: relative;">
-  <!-- Background Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header" width="100%"/>
-  
-  <!-- Animated Text Overlay (inside wave) -->
-  <div style="position: relative; margin-top: -180px; margin-bottom: 50px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Md.+Abul+Bashar+Nirob" alt="Name Typing" />
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=📊+Data+%26+Business+Analyst;⚙️+Data+Engineer+(in+progress);🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Role Typing" />
-  </div>
-</div>
+<!-- 🌊 WAVE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header"/>
+</p>
 
-<br/>
+<!-- ANIMATED TITLE (Right below wave - looks like it's inside) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Md.+Abul+Bashar+Nirob" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=📊+Data+%26+Business+Analyst;⚙️+Transitioning+to+Data+Engineering;🚀+Future+Data+Scientist;💡+Turning+data+into+decisions" alt="Roles" />
+</p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
 <p align="center">
-  <a href="mailto:abnirob40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow"/></a>
+  <a href="mailto:abnirob40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 ---
@@ -52,16 +51,16 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Analysis-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Storytelling-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-FF9800?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-1E88E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-8E24AA?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -154,5 +153,5 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 <!-- 🌊 FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
