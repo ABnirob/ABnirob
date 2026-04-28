@@ -1,5 +1,7 @@
 <!-- 🌊 HEADER -->
-<img src="https://raw.githubusercontent.com/ABnirob/ABnirob/main/header_wave.svg" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 <!-- 🔥 SOCIAL ICON BAR -->
 <p align="center">
