@@ -1,6 +1,6 @@
-<!-- 🌊 DEEP BLUE NIGHT OCEAN WAVE (Wider wave - covers full width) -->
+<!-- 🌊 DEEP BLUE NIGHT OCEAN WAVE (No text inside - guaranteed to work) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001233,100:000451&height=250&width=1000&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=42"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001233,100:000451&height=220&section=header&text=Md.%20Abul%20Bashar%20Nirob&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
 </p>
  
 <!-- Your Name with Animation (Below wave) -->
@@ -69,7 +69,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ## 🏆 CERTIFICATIONS
 
-<tr>
+<table>
   <tr>
      <td><img width="1650" height="1275" alt="1" src="https://github.com/user-attachments/assets/cd168976-f9c4-4003-b758-857e2db7ecb3" /></td>
      <td><img width="1650" height="1275" alt="4" src="https://github.com/user-attachments/assets/9f0a1ff2-d003-467e-b84e-973a7b4da0b0" /></td>
@@ -144,7 +144,7 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 </div>
 
-<!-- 🌊 DEEP BLUE NIGHT OCEAN FOOTER WAVE (Wider) -->
+<!-- 🌊 DEEP BLUE NIGHT OCEAN FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000814,100:001233&height=140&width=1000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000814,100:001233&height=120&section=footer"/>
 </p>
