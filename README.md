@@ -24,7 +24,7 @@
 </p>
 
  
-
+---
 ## 🧠 About Me
 
 I am a **Data & Business Analyst** with a strong academic foundation in **Computer Science & Engineering** and hands-on experience delivering **data-driven solutions that directly impact business performance**.
