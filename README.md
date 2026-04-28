@@ -22,7 +22,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
-
+---
  
 
 ## 🧠 About Me
