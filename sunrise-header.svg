@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020818"/>
+      <stop offset="30%" stop-color="#0d2150"/>
+      <stop offset="55%" stop-color="#7b3a2e"/>
+      <stop offset="72%" stop-color="#d4632a"/>
+      <stop offset="85%" stop-color="#f4953a"/>
+      <stop offset="100%" stop-color="#fce08a"/>
+    </linearGradient>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a5496" stop-opacity="0.85"/>
+      <stop offset="40%" stop-color="#0e3060"/>
+      <stop offset="100%" stop-color="#040f26"/>
+    </linearGradient>
+    <radialGradient id="sunhalo" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#fce08a" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#f4953a" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#d4632a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sunglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff5c0" stop-opacity="1"/>
+      <stop offset="35%" stop-color="#fce08a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f4953a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur1">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="blur2">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="900" height="280"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <!-- Sky -->
+    <rect width="900" height="280" fill="url(#sky)"/>
+
+    <!-- Horizon glow spread -->
+    <ellipse cx="450" cy="168" rx="420" ry="55" fill="url(#sunhalo)" filter="url(#blur1)"/>
+
+    <!-- Sun soft glow blur -->
+    <ellipse cx="450" cy="170" rx="70" ry="50" fill="#f4953a" opacity="0.35" filter="url(#blur1)"/>
+
+    <!-- Sun body (half risen above horizon) -->
+    <ellipse cx="450" cy="172" rx="38" ry="38" fill="url(#sunglow)" filter="url(#blur2)"/>
+    <ellipse cx="450" cy="172" rx="32" ry="32" fill="#fff8d0"/>
+
+    <!-- Hide bottom half of sun with ocean color -->
+    <rect x="350" y="172" width="200" height="40" fill="#1a5496" opacity="0.85"/>
+
+    <!-- Sun rays (thin lines) -->
+    <g stroke="#fce08a" stroke-width="1" opacity="0.4">
+      <line x1="450" y1="132" x2="450" y2="115"/>
+      <line x1="450" y1="132" x2="466" y2="117"/>
+      <line x1="450" y1="132" x2="434" y2="117"/>
+      <line x1="450" y1="132" x2="478" y2="124"/>
+      <line x1="450" y1="132" x2="422" y2="124"/>
+    </g>
+
+    <!-- Horizon shimmer line -->
+    <line x1="0" y1="172" x2="900" y2="172" stroke="#fce08a" stroke-width="0.6" opacity="0.3"/>
+
+    <!-- Stars fading -->
+    <g fill="white">
+      <circle cx="60"  cy="22"  r="1.4" opacity="0.75"/>
+      <circle cx="140" cy="10"  r="1.0" opacity="0.6"/>
+      <circle cx="220" cy="38"  r="1.2" opacity="0.5"/>
+      <circle cx="310" cy="16"  r="0.9" opacity="0.55"/>
+      <circle cx="380" cy="45"  r="1.1" opacity="0.35"/>
+      <circle cx="520" cy="28"  r="0.8" opacity="0.4"/>
+      <circle cx="620" cy="14"  r="1.3" opacity="0.6"/>
+      <circle cx="700" cy="40"  r="1.0" opacity="0.5"/>
+      <circle cx="790" cy="18"  r="1.2" opacity="0.65"/>
+      <circle cx="860" cy="32"  r="0.9" opacity="0.45"/>
+      <circle cx="110" cy="55"  r="0.8" opacity="0.3"/>
+      <circle cx="750" cy="55"  r="0.8" opacity="0.28"/>
+    </g>
+
+    <!-- Morning mist bands -->
+    <rect x="0" y="158" width="900" height="8" fill="#fce08a" opacity="0.04"/>
+    <rect x="0" y="163" width="900" height="5" fill="#ffffff" opacity="0.05"/>
+
+    <!-- Ocean base -->
+    <rect y="172" width="900" height="108" fill="url(#ocean)"/>
+
+    <!-- Sun reflection path on water -->
+    <ellipse cx="450" cy="185" rx="28" ry="6" fill="#fff8d0" opacity="0.5"/>
+    <polygon points="432,185 468,185 460,280 440,280" fill="#fce08a" opacity="0.08"/>
+
+    <!-- Wave layer 1 - back -->
+    <path d="M0 182 Q30 175 60 182 Q90 189 120 182 Q150 175 180 182 Q210 189 240 182 Q270 175 300 182 Q330 189 360 182 Q390 175 420 182 Q450 189 480 182 Q510 175 540 182 Q570 189 600 182 Q630 175 660 182 Q690 189 720 182 Q750 175 780 182 Q810 189 840 182 Q870 175 900 182 L900 200 L0 200 Z" fill="#1a5496" opacity="0.6"/>
+
+    <!-- Wave layer 2 -->
+    <path d="M0 195 Q40 188 80 195 Q120 202 160 195 Q200 188 240 195 Q280 202 320 195 Q360 188 400 195 Q440 202 480 195 Q520 188 560 195 Q600 202 640 195 Q680 188 720 195 Q760 202 800 195 Q840 188 900 195 L900 218 L0 218 Z" fill="#0e3060" opacity="0.75"/>
+
+    <!-- Wave layer 3 - front -->
+    <path d="M0 210 Q50 203 100 210 Q150 217 200 210 Q250 203 300 210 Q350 217 400 210 Q450 203 500 210 Q550 217 600 210 Q650 203 700 210 Q750 217 800 210 Q850 203 900 210 L900 240 L0 240 Z" fill="#08203f" opacity="0.85"/>
+
+    <!-- Wave foam highlights -->
+    <path d="M0 190 Q30 187 60 190 Q90 193 120 190" stroke="#a8d8f8" stroke-width="1" fill="none" opacity="0.4"/>
+    <path d="M200 197 Q240 194 280 197 Q320 200 360 197" stroke="#a8d8f8" stroke-width="1" fill="none" opacity="0.35"/>
+    <path d="M500 190 Q550 187 600 190 Q650 193 700 190" stroke="#a8d8f8" stroke-width="1" fill="none" opacity="0.38"/>
+    <path d="M750 200 Q800 197 850 200 Q875 202 900 200" stroke="#a8d8f8" stroke-width="0.8" fill="none" opacity="0.3"/>
+
+    <!-- Deep water bottom -->
+    <rect y="245" width="900" height="35" fill="#040f26" opacity="0.9"/>
+
+    <!-- Name text -->
+    <text x="450" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#ffffff" opacity="0.97" letter-spacing="2">Md. Abul Bashar Nirob</text>
+    <!-- Subtitle -->
+    <text x="450" y="132" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="400" fill="#fce08a" opacity="0.9" letter-spacing="3">DATA &amp; BUSINESS ANALYST  ·  FUTURE DATA SCIENTIST</text>
+  </g>
+</svg>
