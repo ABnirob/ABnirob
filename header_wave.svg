@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="ocean" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#020818"/>
+      <stop offset="60%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#0d2137"/>
+    </linearGradient>
+    <linearGradient id="wave1col" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#00c6ff;stop-opacity:0.9"/>
+      <stop offset="35%"  style="stop-color:#0072ff;stop-opacity:0.7"/>
+      <stop offset="70%"  style="stop-color:#00c6ff;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#48e0e0;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="wave2col" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#0040a0;stop-opacity:0.7"/>
+      <stop offset="50%"  style="stop-color:#0090d0;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#0040a0;stop-opacity:0.7"/>
+    </linearGradient>
+    <linearGradient id="wave3col" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#00e5ff;stop-opacity:0.4"/>
+      <stop offset="50%"  style="stop-color:#005080;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#00e5ff;stop-opacity:0.4"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#ffffff;stop-opacity:0"/>
+      <stop offset="40%"  style="stop-color:#00e5ff;stop-opacity:0.15"/>
+      <stop offset="50%"  style="stop-color:#ffffff;stop-opacity:0.3"/>
+      <stop offset="60%"  style="stop-color:#00e5ff;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1200 0" to="1200 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur1"><feGaussianBlur stdDeviation="1.5"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Night ocean sky background -->
+  <rect width="1200" height="200" fill="url(#ocean)"/>
+
+  <!-- Stars -->
+  <circle cx="80"   cy="15" r="1"   fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="200"  cy="8"  r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="340"  cy="20" r="1.2" fill="#00e5ff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="480"  cy="10" r="0.8" fill="#fff" opacity="0.7"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="600"  cy="18" r="1"   fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="720"  cy="6"  r="0.8" fill="#00c6ff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="850"  cy="14" r="1"   fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="980"  cy="9"  r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="16" r="1.2" fill="#00e5ff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="1180" cy="7"  r="0.8" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.2s" repeatCount="indefinite"/></circle>
+  <!-- Moon reflection streak -->
+  <ellipse cx="600" cy="105" rx="6" ry="60" fill="#ffffff" opacity="0.04" transform="rotate(2,600,105)"/>
+
+  <!-- Deep wave layer 1 — slowest, darkest -->
+  <path fill="#003366" opacity="0.8">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 155 C80 140,160 165,240 155 C320 145,400 170,480 158 C560 146,640 168,720 156 C800 144,880 166,960 155 C1040 144,1120 162,1200 152 L1200 200 L0 200 Z;
+      M0 150 C80 165,160 145,240 158 C320 171,400 148,480 162 C560 176,640 150,720 164 C800 178,880 152,960 165 C1040 178,1120 155,1200 162 L1200 200 L0 200 Z;
+      M0 155 C80 140,160 165,240 155 C320 145,400 170,480 158 C560 146,640 168,720 156 C800 144,880 166,960 155 C1040 144,1120 162,1200 152 L1200 200 L0 200 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 2 — mid-depth teal -->
+  <path fill="url(#wave2col)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 162 C100 148,200 172,300 160 C400 148,500 174,600 162 C700 150,800 173,900 161 C1000 149,1100 170,1200 160 L1200 200 L0 200 Z;
+      M0 158 C100 172,200 150,300 166 C400 182,500 155,600 170 C700 185,800 158,900 172 C1000 186,1100 160,1200 170 L1200 200 L0 200 Z;
+      M0 162 C100 148,200 172,300 160 C400 148,500 174,600 162 C700 150,800 173,900 161 C1000 149,1100 170,1200 160 L1200 200 L0 200 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 3 — bright cyan surface -->
+  <path fill="url(#wave1col)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 170 C60 158,120 178,200 168 C280 158,360 180,450 170 C540 160,620 182,700 170 C780 158,860 180,940 169 C1020 158,1100 177,1200 168 L1200 200 L0 200 Z;
+      M0 165 C60 178,120 160,200 174 C280 188,360 164,450 178 C540 192,620 166,700 180 C780 194,860 168,940 182 C1020 196,1100 170,1200 178 L1200 200 L0 200 Z;
+      M0 170 C60 158,120 178,200 168 C280 158,360 180,450 170 C540 160,620 182,700 170 C780 158,860 180,940 169 C1020 158,1100 177,1200 168 L1200 200 L0 200 Z
+    "/>
+  </path>
+
+  <!-- White foam crests -->
+  <path fill="none" stroke="#ffffff" stroke-width="1.2" opacity="0.35" filter="url(#blur1)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 170 C60 158,120 178,200 168 C280 158,360 180,450 170 C540 160,620 182,700 170 C780 158,860 180,940 169 C1020 158,1100 177,1200 168;
+      M0 165 C60 178,120 160,200 174 C280 188,360 164,450 178 C540 192,620 166,700 180 C780 194,860 168,940 182 C1020 196,1100 170,1200 178;
+      M0 170 C60 158,120 178,200 168 C280 158,360 180,450 170 C540 160,620 182,700 170 C780 158,860 180,940 169 C1020 158,1100 177,1200 168
+    "/>
+  </path>
+
+  <!-- Shimmer on surface -->
+  <rect width="1200" height="35" y="165" fill="url(#shimmer)" opacity="0.6"/>
+
+  <!-- Light ripple sparkles on water surface -->
+  <ellipse cx="150" cy="172" rx="12" ry="2" fill="#ffffff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.05;0.18" dur="2.4s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="420" cy="175" rx="8"  ry="1.5" fill="#ffffff" opacity="0.14"><animate attributeName="opacity" values="0.14;0.06;0.14" dur="3.1s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="680" cy="173" rx="14" ry="2"   fill="#00e5ff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.04;0.18" dur="2.7s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="960" cy="174" rx="10" ry="1.5" fill="#ffffff" opacity="0.15"><animate attributeName="opacity" values="0.15;0.07;0.15" dur="3.5s" repeatCount="indefinite"/></ellipse>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="sky2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"  style="stop-color:#020818"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+    <linearGradient id="wc1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#00c6ff;stop-opacity:0.9"/>
+      <stop offset="50%"  style="stop-color:#0072ff;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#48e0e0;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="wc2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#003366;stop-opacity:0.8"/>
+      <stop offset="50%"  style="stop-color:#0090d0;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#003366;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="sh2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#ffffff;stop-opacity:0"/>
+      <stop offset="45%"  style="stop-color:#00e5ff;stop-opacity:0.12"/>
+      <stop offset="50%"  style="stop-color:#ffffff;stop-opacity:0.25"/>
+      <stop offset="55%"  style="stop-color:#00e5ff;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1200 0" to="1200 0" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="b2"><feGaussianBlur stdDeviation="1.2"/></filter>
+  </defs>
+  <rect width="1200" height="120" fill="url(#sky2)"/>
+  <!-- Stars -->
+  <circle cx="100"  cy="30" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3s"   repeatCount="indefinite"/></circle>
+  <circle cx="300"  cy="20" r="1"   fill="#00e5ff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="600"  cy="25" r="0.8" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="900"  cy="18" r="1"   fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="28" r="0.8" fill="#00c6ff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s"   repeatCount="indefinite"/></circle>
+  <!-- Deep wave -->
+  <path fill="url(#wc2)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 70 C100 58,200 78,300 68 C400 58,500 78,600 68 C700 58,800 78,900 68 C1000 58,1100 76,1200 67 L1200 0 L0 0 Z;
+      M0 65 C100 78,200 58,300 72 C400 86,500 62,600 76 C700 90,800 64,900 78 C1000 92,1100 66,1200 76 L1200 0 L0 0 Z;
+      M0 70 C100 58,200 78,300 68 C400 58,500 78,600 68 C700 58,800 78,900 68 C1000 58,1100 76,1200 67 L1200 0 L0 0 Z
+    "/>
+  </path>
+  <!-- Bright surface wave -->
+  <path fill="url(#wc1)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 82 C80 70,160 88,240 78 C320 68,400 87,480 76 C560 65,640 84,720 74 C800 64,880 83,960 73 C1040 63,1120 80,1200 72 L1200 0 L0 0 Z;
+      M0 76 C80 88,160 70,240 84 C320 98,400 74,480 88 C560 102,640 76,720 90 C800 104,880 78,960 92 C1040 106,1120 80,1200 88 L1200 0 L0 0 Z;
+      M0 82 C80 70,160 88,240 78 C320 68,400 87,480 76 C560 65,640 84,720 74 C800 64,880 83,960 73 C1040 63,1120 80,1200 72 L1200 0 L0 0 Z
+    "/>
+  </path>
+  <!-- Foam -->
+  <path fill="none" stroke="#ffffff" stroke-width="1" opacity="0.3" filter="url(#b2)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" values="
+      M0 82 C80 70,160 88,240 78 C320 68,400 87,480 76 C560 65,640 84,720 74 C800 64,880 83,960 73 C1040 63,1120 80,1200 72;
+      M0 76 C80 88,160 70,240 84 C320 98,400 74,480 88 C560 102,640 76,720 90 C800 104,880 78,960 92 C1040 106,1120 80,1200 88;
+      M0 82 C80 70,160 88,240 78 C320 68,400 87,480 76 C560 65,640 84,720 74 C800 64,880 83,960 73 C1040 63,1120 80,1200 72
+    "/>
+  </path>
+  <rect width="1200" height="22" y="80" fill="url(#sh2)" opacity="0.7"/>
+  <ellipse cx="200" cy="84"  rx="10" ry="1.5" fill="#ffffff"  opacity="0.16"><animate attributeName="opacity" values="0.16;0.05;0.16" dur="2.6s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="550" cy="82"  rx="14" ry="2"   fill="#00e5ff"  opacity="0.18"><animate attributeName="opacity" values="0.18;0.06;0.18" dur="3.2s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="900" cy="83"  rx="10" ry="1.5" fill="#ffffff"  opacity="0.14"><animate attributeName="opacity" values="0.14;0.06;0.14" dur="2.9s" repeatCount="indefinite"/></ellipse>
+</svg>
