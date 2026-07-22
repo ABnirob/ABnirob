@@ -105,12 +105,17 @@ My long-term vision is to evolve into a **Data Scientist**, combining **data eng
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABnirob&theme=tokyonight" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABnirob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020818"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABnirob&layout=compact&theme=tokyonight&hide_border=true&bg_color=020818"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ABnirob&theme=tokyonight&hide_border=true&background=020818" alt="GitHub Streak"/>
+</p>
+
+---
 
 ---
 
